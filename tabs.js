@@ -3,6 +3,7 @@ $('ul.tabs').each(function(){
   // For each set of tabs, we want to keep track of
   // which tab is active and it's associated content
   var $active, $content, $links = $(this).find('a');
+  
 
   // If the location.hash matches one of the links, use that as the active tab.
   // If no match is found, use the first link as the initial active tab.
