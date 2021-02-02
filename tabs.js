@@ -34,3 +34,4 @@ $('ul.tabs').each(function(){
     e.preventDefault();
   });
 });
+
