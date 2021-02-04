@@ -28,7 +28,9 @@ jQuery(document).ready(function($){
 		$(".main_menu a.templatemo_page4, .responsive_menu a.templatemo_page4").removeClass('active');
 		$(".main_menu a.templatemo_page5, .responsive_menu a.templatemo_page5").removeClass('active');
 		return false;
-	});
+	});=
+		
+		
 
 	$(".main_menu a.templatemo_page2, .responsive_menu a.templatemo_page2").click(function(){
 		$("#menu-container .products").addClass("animated fadeInDown").show();
