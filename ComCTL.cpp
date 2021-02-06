@@ -2,6 +2,7 @@
 #include "GUI/GUI.h"
 #include <shlwapi.h>
 
+
 HRESULT GetComCtlVersion(LPDWORD pdwMajor, LPDWORD pdwMinor)
 {
 	HINSTANCE   hComCtl;
